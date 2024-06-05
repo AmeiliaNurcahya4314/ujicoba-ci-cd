@@ -5,7 +5,7 @@
             <div class="row mx-auto">
                 <div class="col-md-3">
                     <div class="box bg-primary text-white">
-                        <p class="judul">Pasien</p>
+                        <p class="judul">List Pasien</p>
                         <p class="nomer-kamar">Nomer</p>
                     </div>
                 </div>
